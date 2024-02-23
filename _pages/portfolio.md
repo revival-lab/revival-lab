@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: Contributions to Open Source Projects
+title: Open Source Contributions
 toc: true
 toc_sticky: true
 excerpt: "_Selected list of contributions to open source projects. Where available, links to short video presentations by or with us are provided._"

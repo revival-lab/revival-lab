@@ -13,10 +13,11 @@ intro:
   - excerpt: "Our mission is to breathe life into legacy code, ensuring longevity in the ever-evolving landscape of technology.
 We specialize in crafting maintainable, mission-critical, and secure software solutions.
 We don't just refactor; we _revive_, ensuring that your software stands the test of time."
+
 feature_row:
   - image_path: /assets/images/dust-disk.jpeg
-    alt: "customizable"
     title: "Code Revival"
+    alt: "customizable"
     excerpt: "Comprehensive analysis and enhancement of legacy code written in C, C++, and Python. Integration of modern practices to extend the lifespan and functionality of existing codebases."
     #url: "/docs/configuration/"
     #btn_class: "btn--primary"
@@ -35,35 +36,42 @@ feature_row:
     #url: "/docs/license/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"
-feature_row2:
+
+feature_row_expertise:
   - image_path: /assets/images/wordcloud.jpg
     alt: "placeholder image 2"
-    title: "Expertice"
-    excerpt: 'At Code Revival Lab, our expertise extends into the realms of **scientific and technical software**, with a specialized focus on **high-performance** computing. We thrive in crafting solutions for **restricted and embedded systems**, ensuring efficiency even in resource-constrained environments.
+    title: "Expertise"
+    excerpt: 'At Code Revival Lab, our expertise extends into the realms of **scientific and technical software**, with a specialized focus on **high-performance** applications. We thrive in crafting solutions for **restricted and embedded systems**, ensuring efficiency even in resource-constrained environments.
 We excel in languages crucial to modern software development, including **Rust**, **C/C++**, and **Python**.'
-    #url: "#test-link"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/blurry-rust.jpg
+
+feature_row_services:
+  - image_path:
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/blurry-rust.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Services"
+    excerpt: 'We offer help and consultancy to new or existing projects.'
+
+feature_services_bullets:
+  - image_path:
+    excerpt: | 
+      - Profile existing software using **static code analysis**
+      - **Unit Test Development:**
+        Development and implementation of robust unit tests to ensure the correctness and reliability of your software.
+      - **Version Control Implementation:** Utilization of industry-standard version control systems, such as Git and GitHub, to track changes, facilitate collaboration, and ensure a secure and organized development workflow.
+  - image_path:
+    excerpt: | 
+      - **Refactoring** for readability and maintainability
+      - **Build System Modernization:** Modernization of build systems such as CMake for C/C++ projects or Cargo for Rust projects to streamline development processes and improve project maintainability.
+      - **Code migration** to e.g. modern C++ or Rust, incl. multi-language setups
+  - image_path:
+    excerpt: | 
+      - Create **Python bindings** for C/C++/Fortran code
+      - Modernize build system
+      - Code translation
+
 ---
 {% include feature_row id="intro" type="center" %}
-
+{% include feature_row id="feature_row_expertise" type="left" %}
+{% include feature_row id="feature_row_services" type="center" %}
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_services_bullets"%}
 
