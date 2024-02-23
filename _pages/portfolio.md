@@ -3,10 +3,11 @@ permalink: /portfolio/
 title: Contributions to Open Source Projects
 toc: true
 toc_sticky: true
+excerpt: "_Selected list of contributions to open source projects. Where available, links to short video presentations by or with us are provided._"
+header:
+  overlay_image: /assets/images/blurry-rust.jpg
+  overlay_filter: rgba(0, 50, 0, 0.7)
 ---
-Selected list of contributions to open source projects.
-Where available, links to short video presentations by or with us are provided.
-
 ## Science 
 
 ### Molecular Simulation
