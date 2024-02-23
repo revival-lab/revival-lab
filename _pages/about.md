@@ -1,37 +1,13 @@
 ---
-layout: splash
+layout: single
 permalink: /about/
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/blurry-rust.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-feature_row:
-  - image_path: /assets/images/blurry-rust.jpg
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/blurry-rust.jpg
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/blurry-rust.jpg
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+title: About Code Revival Lab
+author_profile: true
 ---
-{% include feature_row %}
+
+Our mission is to breathe life into legacy code, ensuring longevity in the ever-evolving landscape of technology.
+We specialize in crafting maintainable, mission-critical, and secure software solutions.
+In a digital era where innovation is relentless, we understand the significance of maintaining and enhancing existing systems.
+We combine cutting-edge methodologies with a profound commitment to code quality.
+We don't just refactor; we revive, ensuring that your software stands the test of time, remains easily maintainable, and meets the highest standards of security.
+Code Revival Lab: Where the past meets the future with resilience, longevity, and innovation.
