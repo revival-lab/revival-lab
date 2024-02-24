@@ -53,20 +53,17 @@ feature_row_services:
 feature_services_bullets:
   - image_path:
     excerpt: | 
-      - Profile existing software using **static code analysis**
-      - **Unit Test Development:**
-        Development and implementation of robust unit tests to ensure the correctness and reliability of your software.
-      - **Version Control Implementation:** Utilization of industry-standard version control systems, such as Git and GitHub, to track changes, facilitate collaboration, and ensure a secure and organized development workflow.
+      - **Version Control:** Utilization of industry-standard version control systems, such as Git and GitHub, to track changes, facilitate collaboration, and ensure a secure and organized development workflow.
+      - **Continuous Integration**: Setup and configuration of continuous integration pipelines to automate testing, build processes, and ensure the ongoing integrity of your codebase.
   - image_path:
     excerpt: | 
-      - **Refactoring** for readability and maintainability
+      - Profile existing software using **static and dynamic code analysis**. Profiling is an important tool to find critical safety and and performance issues.
+      - **Unit Testing:**
+        Development and implementation of robust unit tests to ensure the continued correctness and reliability of your software.
+  - image_path:
+    excerpt: | 
+      - Expose C, C++, or Fortran code with **Python bindings** to significantly lower the threshold to use your application.
       - **Build System Modernization:** Modernization of build systems such as CMake for C/C++ projects or Cargo for Rust projects to streamline development processes and improve project maintainability.
-      - **Code migration** to e.g. modern C++ or Rust, incl. multi-language setups
-  - image_path:
-    excerpt: | 
-      - Create **Python bindings** for C/C++/Fortran code
-      - Modernize build system
-      - Code translation
 
 ---
 {% include feature_row id="intro" type="center" %}
