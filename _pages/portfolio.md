@@ -18,16 +18,17 @@ Over two decades we have kept up with the C++ standard and is now at C++17.
 _Contribution: creator and development lead_.
 {% include video id="mFOooBQE3mg" provider="youtube" %}
 
-### Plotting
+### Ancient Plotting
 
 [Xmgr](https://github.com/mlund/xmgr-resurrection) is an ancient but still popular GUI tool
 for plotting scientific data. It was utterly abandoned until we resurrected the code base.
 _Contribution: CMake build system; bug fixes; and support for 64-bit systems._
+{% include figure image_path="/assets/images/acegr.jpg" %}
 
-## Compiler backend
+## Compiler Backend Development
 
 [LLVM-MOS](https://githib.com/llvm-mos) supports the MOS Technology 65xx series of microprocessors and enables C, C++, Rust compilers on a series of 8-bit computers.
-_Contribution: memory layout for the MEGA65 and Commander X16 target and implementation of assembler opcodes_.
+_Contribution: memory layout for the MEGA65 and Commander X16 targets; (dis)assembly for 65ce02 CPU derivatives_.
 {% include video id="iPX4ydAPaKo" provider="youtube" %}
 
 ## Embedded
@@ -50,6 +51,7 @@ _Contribution: refactoring of RGB color handling_.
 We maintain a [library for display drivers](https://crates.io/crates/retro-display)
 for graphics on extremely restricted systems using the `embedded-graphics` crate.
 _Contribution: creator and development lead_.
+
 <a href="https://crates.io/crates/retro-display">
   <img src="https://github.com/mlund/retro-display/raw/HEAD/assets/c64demo.png" width="500">
 </a>

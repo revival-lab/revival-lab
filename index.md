@@ -10,6 +10,7 @@ header:
 excerpt: >
   _We vitalise and strengthen software._
 intro: 
+  - title: Revive and Survive
   - excerpt: "Our mission is to breathe life into legacy code, ensuring longevity in the ever-evolving landscape of technology.
 We specialize in crafting maintainable, mission-critical, and secure software solutions.
 We don't just refactor; we _revive_, ensuring that your software stands the test of time."
