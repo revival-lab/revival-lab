@@ -51,10 +51,7 @@ _Contribution: refactoring of RGB color handling_.
 We maintain a [library for display drivers](https://crates.io/crates/retro-display)
 for graphics on extremely restricted systems using the `embedded-graphics` crate.
 _Contribution: creator and development lead_.
-
-<a href="https://crates.io/crates/retro-display">
-  <img src="https://github.com/mlund/retro-display/raw/HEAD/assets/c64demo.png" width="500">
-</a>
+{% include figure image_path="https://github.com/mlund/retro-display/raw/HEAD/assets/c64demo.png" %}
 
 ### Hardware Remote Control via HTTP and Serial Communications
 
