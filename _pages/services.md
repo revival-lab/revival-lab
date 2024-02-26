@@ -28,7 +28,7 @@ feature_row_top:
        To uncover critical safety and performance issues in your software, we use **static and dynamic code analysis** to find hidden bugs and memory leaks that can lead to resource loss and security risks. We also offer full or partial **migration of critial code** to a high-performance but memory safe language such as **Rust**.
 
 feature_row:
-  - image_path: /assets/images/dust-disk.jpeg
+  - image_path: /assets/images/dust-disk-soft.jpeg
     title: "Code Revival"
     alt: "customizable"
     excerpt: >

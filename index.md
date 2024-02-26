@@ -38,7 +38,7 @@ feature_row_services:
     btn_label: "Learn more"
 
 feature_row:
-  - image_path: /assets/images/dust-disk.jpeg
+  - image_path: /assets/images/dust-disk-soft.jpeg
     title: "Code Revival"
     alt: "customizable"
     excerpt: >

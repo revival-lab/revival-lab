@@ -17,4 +17,4 @@ Over the past two decades, he has specialised in scientific software development
 Additionally, Mikael has contributed to Rust-based projects, particularly in embedded systems.
 Alongside programming pursuits, he serves as a Professor in Computational Chemistry at Lund University, Sweden.
 
-{% include figure image_path="/assets/images/dust-disk.jpeg" %}
+{% include figure image_path="/assets/images/dust-disk-soft.jpeg" %}
