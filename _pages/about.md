@@ -10,4 +10,11 @@ We specialize in crafting maintainable, mission-critical, and secure software so
 In a digital era where innovation is relentless, we understand the significance of maintaining and enhancing existing systems.
 We combine cutting-edge methodologies with a profound commitment to code quality.
 We don't just refactor; we revive, ensuring that your software stands the test of time, remains easily maintainable, and meets the highest standards of security.
-Code Revival Lab: Where the past meets the future with resilience, longevity, and innovation.
+
+Mikael Lund, founder of Code Revival Lab in 2023, is a seasoned software developer with a diverse background.
+Growing up with assembler in the late 1980s, he was active in the demo scene on Commodore 64 and the Amiga.
+Over the past two decades, he has specialised in scientific software development and high-performance computing in C++ and Python.
+Additionally, Mikael has contributed to Rust-based projects, particularly in embedded systems.
+Alongside programming pursuits, he serves as a Professor in Computational Chemistry at Lund University, Sweden.
+
+{% include figure image_path="/assets/images/dust-disk.jpeg" %}
