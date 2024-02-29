@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Mikael Lund"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Founder of Code Revival Lab and Professor in Computational Chemistry."
+  bio    : "Founder of Code Revival Lab; Researcher and educator in computational chemistry."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
