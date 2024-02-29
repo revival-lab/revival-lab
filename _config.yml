@@ -59,9 +59,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Founder of Code Revival Lab and Professor in Computational Chemistry."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.teokem.lu.se/~mikael"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mlund"
