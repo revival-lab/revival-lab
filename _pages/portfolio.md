@@ -12,7 +12,7 @@ header:
 
 ### Molecular Simulation
 
-[Faunus](https://githib.com/mlund/faunus) is a scientific software written in modern C++/Python for simulating
+[Faunus](https://github.com/mlund/faunus) is a scientific software written in modern C++/Python for simulating
 molecular systems at multiple length and time scales.
 Over two decades we have kept up with the C++ standard and is now at C++17.
 
@@ -34,7 +34,7 @@ for plotting scientific data. It was utterly abandoned until we resurrected the 
 
 ## Compiler Backend Development
 
-[LLVM-MOS](https://githib.com/llvm-mos) supports the MOS Technology 65xx series of microprocessors and enables C, C++, Rust compilers on a series of 8-bit computers.
+[LLVM-MOS](https://github.com/llvm-mos) supports the MOS Technology 65xx series of microprocessors and enables C, C++, Rust compilers on a series of 8-bit computers.
 
 **Contribution:** memory layout for the MEGA65 and Commander X16 targets; (dis)assembly for 65CE02 CPU derivatives.
 See all PR's
@@ -49,7 +49,7 @@ See all PR's
 ### Hardware Abstraction Layers (HAL)
 
 <i class="fab fa-rust"></i> Rust
-[HAL for MOS Technology graphics and sound chips](https://githib.com/mlund/mos-hardware) using memory-mapped I/O.
+[HAL for MOS Technology graphics and sound chips](https://github.com/mlund/mos-hardware) using memory-mapped I/O.
 This includes FFI bindings to [mega65-libc](https://github.com/MEGA65/mega65-libc).
 
 **Contribution:** Creator and development lead. Mega65-libc contributions [here](https://github.com/mega65/mega65-libc/pulls?q=author%3Amlund+).
@@ -77,8 +77,8 @@ for graphics on extremely restricted systems using the `embedded-graphics` crate
 
 ### Hardware Remote Control via HTTP and Serial Communications
 
-[Ultimate64](https://githib.com/mlund/ultimate64) is a CLI for communicating with Ultimate 64/II+ hardware via HTTP requests.
-[Matrix65](https://githib.com/mlund/matrix) is a modern text user-interface
+[Ultimate64](https://github.com/mlund/ultimate64) is a CLI for communicating with Ultimate 64/II+ hardware via HTTP requests.
+[Matrix65](https://github.com/mlund/matrix) is a modern text user-interface
 ([TUI](https://en.wikipedia.org/wiki/Text-based_user_interface))
 for serial communication with the MEGA65 computer.
 Both tools are written in Rust <i class="fab fa-rust"></i>.
