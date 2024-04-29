@@ -78,7 +78,7 @@ for graphics on extremely restricted systems using the `embedded-graphics` crate
 ### Hardware Remote Control via HTTP and Serial Communications
 
 [Ultimate64](https://github.com/mlund/ultimate64) is a CLI for communicating with Ultimate 64/II+ hardware via HTTP requests.
-[Matrix65](https://github.com/mlund/matrix) is a modern text user-interface
+[Matrix65](https://github.com/mlund/matrix65) is a modern text user-interface
 ([TUI](https://en.wikipedia.org/wiki/Text-based_user_interface))
 for serial communication with the MEGA65 computer.
 Both tools are written in Rust <i class="fab fa-rust"></i>.
