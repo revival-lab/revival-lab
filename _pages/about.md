@@ -15,6 +15,5 @@ Mikael Lund, founder of Code Revival Lab in 2023, is a seasoned software develop
 Growing up with assembler in the late 1980s, he was active in the demo scene on Commodore 64 and the Amiga.
 Over the past two decades, he has specialised in scientific software development and high-performance computing in C++ and Python.
 Additionally, Mikael has contributed to Rust-based projects, particularly in embedded systems.
-Alongside programming pursuits, he serves as a Professor in Computational Chemistry.
 
 {% include figure image_path="/assets/images/dust-disk-soft.jpeg" %}
