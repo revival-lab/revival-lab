@@ -14,7 +14,7 @@ header:
 
 [Faunus](https://github.com/mlund/faunus) is a scientific software written in modern C++/Python for simulating
 molecular systems at multiple length and time scales.
-Over two decades we have kept up with the C++ standard and is now at C++17.
+Over two decades we have kept up with the C++ standard and is now at C++20.
 
 **Contribution:** Creator and development lead.
 {: .notice--success}
